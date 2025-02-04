@@ -3,7 +3,8 @@ use std::process::{Command, Stdio};
 use regex::Regex;
 
 fn display_usage() {
-    println!("Usage: connector user@server.com");
+    println!("SASA Bypass SOCKSv5 Port 1080 by Errorgeist.id");
+    println!("Usage: connector.exe user@server.com");
 }
 
 fn main() {
